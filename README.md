@@ -1,9 +1,9 @@
 # BottomBarWithFab
 
-![First Screen](https://user-images.githubusercontent.com/46577836/66709287-38ad4180-ed61-11e9-8890-fb5c8d22a71b.png)
-![Item – 1](https://user-images.githubusercontent.com/46577836/66709288-38ad4180-ed61-11e9-9bd3-10495e70e3b5.png)
-![Item – 2](https://user-images.githubusercontent.com/46577836/66709289-38ad4180-ed61-11e9-8bc9-115b9e6a1274.png)
-![Item – 3](https://user-images.githubusercontent.com/46577836/66709290-38ad4180-ed61-11e9-950e-44b970221e23.png)
-![Item – 4](https://user-images.githubusercontent.com/46577836/66709291-38ad4180-ed61-11e9-9eb0-173b2f890973.png)
-![Item – 5](https://user-images.githubusercontent.com/46577836/66709292-3945d800-ed61-11e9-900d-32419123ee88.png)
-![Last Sreen – 2](https://user-images.githubusercontent.com/46577836/66709293-3945d800-ed61-11e9-8e3e-318c2c9fd7c5.png)
+![IG – 68](https://user-images.githubusercontent.com/46577836/84387371-2e468e80-abf3-11ea-985b-73775a24be59.png)
+![IG – 69](https://user-images.githubusercontent.com/46577836/84387380-30a8e880-abf3-11ea-88fa-8491ee7b258a.png)
+![IG – 70](https://user-images.githubusercontent.com/46577836/84387383-31417f00-abf3-11ea-90db-5bc92932d208.png)
+![IG – 71](https://user-images.githubusercontent.com/46577836/84387385-3272ac00-abf3-11ea-8a5f-b990a2439274.png)
+![IG – 72](https://user-images.githubusercontent.com/46577836/84387387-330b4280-abf3-11ea-88f6-4ca17325bb97.png)
+![IG – 73](https://user-images.githubusercontent.com/46577836/84387389-33a3d900-abf3-11ea-8b18-8857dbb53f09.png)
+![IG – 74](https://user-images.githubusercontent.com/46577836/84387392-343c6f80-abf3-11ea-818e-cbb6e91c0cd7.png)
